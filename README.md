@@ -22,3 +22,13 @@ Application developed in Angular with a focus on learning and exploring:
 - Each button is a reusable component with communication via events
 - Visually pleasing application with **background gradient**, centered and responsive layout
 
+## 🖥️ Access the Demo Here
+
+👉 [https://jordanwmp.github.io/angular-simple-counter/](https://jordanwmp.github.io/angular-simple-counter/)
+
+## 🚀 How to Run Locally
+
+```bash
+npm install
+ng serve
+```
